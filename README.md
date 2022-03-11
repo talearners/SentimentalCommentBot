@@ -5,13 +5,9 @@
 
 
 <pre>
-<h4> Use Python3.10 </h4>
-
-follow the instruction
+<h4 >Use <a href="https://www.python.org/">Python3.10</a> </h4><b>Follow the instruction</b>
 </pre>
 
 <code>
-
-$ pip install selenium text2emotion
-
+  $ <b>pip install selenium text2emotion</b>
 </code>
